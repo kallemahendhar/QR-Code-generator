@@ -44,11 +44,6 @@ You will be asked to enter:
 
 The URL you want to convert into a QR code
 
-Example:
-
-Enter the URL to generate QR code: https://chat.openai.com
-QR code generated and saved as qrcode.png
-
 
 A file named qrcode.png will be saved in your project folder.
 
